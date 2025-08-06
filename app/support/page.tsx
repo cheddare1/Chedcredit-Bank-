@@ -38,11 +38,11 @@ export default function ContactSupportPage() {
             </div>
             <div>
               <p className="font-medium">Email:</p>
-              <p>support@chedcreditunion.com</p>
+              <p>reply.creditunion.com</p>
             </div>
             <div>
               <p className="font-medium">Phone:</p>
-              <p>+1 (555) 123-4567</p>
+              <p>(+233)20-884-3589</p>
             </div>
             <div>
               <p className="font-medium">Fax:</p>
