@@ -55,7 +55,7 @@ const investments = [
       features: [
         "Prime City Center Location",
         "$2,500 Monthly Rental Income",
-        "3 Bedroom, 2 Bathroom",
+        "10 Bedroom, 9 Bathroom",
         "Modern Amenities",
         "Professional Property Management",
       ],
@@ -71,19 +71,19 @@ const investments = [
     icon: Leaf,
     color: "from-green-400 to-green-600",
     details: {
-      assets: "50-Acre Cocoa Plantation",
+      assets: "92-Acre Cocoa Plantation",
       location: "Kumasi, Ghana",
       description:
         "Sustainable cocoa farming operation in Ghana's premier cocoa-growing region, focusing on organic farming practices and direct export partnerships.",
       features: [
-        "50-Acre Organic Plantation",
-        "25 Tons Annual Harvest",
+        "92-Acre Organic Plantation",
+        "45 Tons Annual Harvest",
         "Direct Export Partnerships",
         "Sustainable Farming Practices",
         "Local Community Employment",
       ],
-      performance: "12% Annual Growth",
-      risk: "Medium Risk",
+      performance: "24% Annual Growth due to improper care reduced to %8",
+      risk: " Moderate Risk",
     },
   },
 ]
