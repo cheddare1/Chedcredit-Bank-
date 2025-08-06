@@ -26,13 +26,13 @@ const investments = [
     color: "from-yellow-400 to-yellow-600",
     details: {
       assets: "10 Gold Bars + Diamond Portfolio",
-      location: "Secure Vault Facility",
+      location: "Global Finance Vault Storage  ",
       description:
         "Premium precious metals investment portfolio featuring 10 certified gold bars and a diversified collection of investment-grade diamonds.",
       features: [
-        "10 Certified Gold Bars (1 oz each)",
+        "10 Certified Gold Bars (23.99 Karat each)",
         "Diversified Diamond Collection",
-        "Secure Vault Storage",
+        "Global Finance Vault Storage",
         "Quarterly Performance Reviews",
         "Insurance Coverage Included",
       ],
