@@ -102,7 +102,7 @@ export default function PersonalManageLimitsPage() {
                       </div>
                       <div className="text-right">
                         <p className="opacity-60">CARDHOLDER</p>
-                        <p className="font-medium">THOMAS PERSONAL</p>
+                        <p className="font-medium">MICHAEL CLAYTON JNR PERSONAL</p>
                       </div>
                     </div>
                   </div>
