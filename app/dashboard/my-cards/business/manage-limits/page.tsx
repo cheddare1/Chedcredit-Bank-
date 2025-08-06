@@ -102,7 +102,7 @@ export default function BusinessManageLimitsPage() {
                       </div>
                       <div className="text-right">
                         <p className="opacity-60">CARDHOLDER</p>
-                        <p className="font-medium">THOMAS BUSINESS</p>
+                        <p className="font-medium">MICHAEL BUSINESS</p>
                       </div>
                     </div>
                   </div>
