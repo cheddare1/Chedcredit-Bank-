@@ -38,7 +38,7 @@ export default function DashboardPage() {
       <div className="container mx-auto px-4 py-8">
         {/* Welcome Header */}
         <div className="mb-8">
-          <h1 className="text-3xl font-bold text-gray-900 mb-2">Welcome back, {currentUser?.name || "Michael"}!</h1>
+          <h1 className="text-3xl font-bold text-gray-900 mb-2">Welcome back, {currentUser?.name || "Issah Michael"}!</h1>
           <p className="text-gray-600">Here's what's happening with your accounts today.</p>
         </div>
 
